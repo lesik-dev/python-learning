@@ -9,4 +9,4 @@ This repository contains my Python learning projects.
 - Rock Paper Scissors (coming soon)
 - Guess the Number (coming soon)
 
-Author: Lesik
+Author: Oleksiy Kushnirchuk
