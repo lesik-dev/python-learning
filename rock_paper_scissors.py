@@ -1,17 +1,17 @@
 import random
-
+# Get player's choice
 def get_player_choice():
     choice = input("Вибери: (камінь/ножиці/папір) ")
 
     return choice
 
-
+# Generate computer's random choice
 def get_computer_choice():
     choices = ["камінь", "ножиці", "папір"]
     choice = random.choice(choices)
 
     return choice
-
+# Determine the winner of the round
 def determine_winner(player, computer):
     if player == "камінь" and computer == "ножиці":
         return "Ти переміг!"
@@ -24,7 +24,7 @@ def determine_winner(player, computer):
     else:
         return "Комп'ютер переміг!"
 
-
+# Update the game score
 def get_result(result, player_score, computer_score):
     if result == "Ти переміг!":
         player_score += 1
