@@ -79,5 +79,5 @@ while True:
         print("Ти переміг у грі")
         break
     if computer_score == 3:
-        print("Комп'ютер переміг гру!")
+        print("Комп'ютер переміг у грі!")
         break
