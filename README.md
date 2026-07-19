@@ -8,7 +8,7 @@ This repository contains my Python learning projects.
 - Rock Paper Scissors ✅
 - Guess the Number ✅
 - Grade Manager (coming soon)
-- To-Do List (coming soon)
+- To-Do List ✅
 - Contact Book (coming soon)
 - Password Generator (coming soon)
 - Quiz Game (coming soon)
